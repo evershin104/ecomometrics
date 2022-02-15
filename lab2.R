@@ -1,7 +1,7 @@
-setwd('C:/Users/sunch/Desktop/эконометрика')
+
 T <- read.table("reg.txt", header=TRUE)
 
-# Вектора a1, a2
+# Г‚ГҐГЄГІГ®Г°Г  a1, a2
 compare_data <- function(a1, a2){
   plot(a1, a2)
   abline(lm(a2 ~ a1))
