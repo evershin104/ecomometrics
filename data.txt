@@ -1,0 +1,6 @@
+cityname,people,dist,salary
+Petrozavodsk,280000,1031,44533
+Novosibirsk,1511000,3358.6,37931
+Saratov,838321,905,36652.8
+Omsk,1159000,2711.3,37828
+Krasnodar,773970,1348.1,48000
