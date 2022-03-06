@@ -1,0 +1,83 @@
+SF;MilkPrice;Income;Population;FO
+Moskva;42,87;48621,6;12380664;CFO
+Moskovskaya oblast;35,91;29699,1;7423470;CFO
+Krasnodarskij kraj;31,05;21077,2;5570945;YuFO
+Sankt-Peterburg;38,98;27794,6;5281579;SZFO
+Sverdlovskaya oblast;33,24;27709,2;4329341;UFO
+Rostovskaya oblast;34,21;17987,3;4231355;YuFO
+Respublika Bashkortostan;29,73;21258,8;4066972;PFO
+Respublika Tatarstan;27,98;24009,8;3885253;PFO
+Tyumenskaya oblast;44,91;33280,7;1477903;UFO
+Chelyabinskaya oblast;35,45;19762,5;3502323;UFO
+Nizhegorodskaya oblast;32,6;21517,6;3247713;PFO
+Samarskaya oblast;31,84;24683;3203679;PFO
+Respublika Dagestan;36,22;20647,9;3041900;SKFO
+Krasnoyarskij kraj;36,15;22137,6;2875301;SFO
+Stavropolskij kraj;28,63;16877,2;2804383;SKFO
+Novosibirskaya oblast;34,38;20637,1;2779555;SFO
+Kemerovskaya oblast;31;18385,5;2708844;SFO
+Permskij kraj;33,37;23269,6;2632097;PFO
+Volgogradskaya oblast;30,37;16066,4;2535202;YuFO
+Saratovskaya oblast;24,97;14243,3;2479260;PFO
+Irkutskaya oblast;37,37;17720,3;2408901;SFO
+Altajskij kraj;31,27;13628,9;2365680;SFO
+Voronezhskaya oblast;31,15;18885,1;2335408;CFO
+Orenburgskaya oblast;29,92;16539,1;1989589;PFO
+Omskaya oblast;28,95;19468,8;1972682;SFO
+Primorskij kraj;62,52;21299,7;1923116;DVFO
+Leningradskaya oblast;40,62;17925;1791916;SZFO
+Hanty-Mansijskij avtonomnyj okrug — Yugra;49,92;36088,1;1646078;UFO
+Belgorodskaya oblast;28,39;21562,9;1552865;CFO
+Udmurtskaya Respublika;28,45;16411;1516826;PFO
+Tulskaya oblast;28,59;19291,1;1499417;CFO
+Chechenskaya Respublika;46,43;15256,9;1414865;SKFO
+Vladimirskaya oblast;31,88;16136;1389599;CFO
+Penzenskaya oblast;29,99;15765,3;1341526;PFO
+Habarovskij kraj;49,57;25649,3;1333294;DVFO
+Tverskaya oblast;32,92;17247,3;1296799;CFO
+Kirovskaya oblast;27,07;16529,9;1291684;PFO
+Yaroslavskaya oblast;33,12;18512,5;1270736;CFO
+Ulyanovskaya oblast;27,59;16350,6;1252887;PFO
+Chuvashskaya Respublika;32,69;13754,9;1235863;PFO
+Bryanskaya oblast;26,11;17421,6;1220530;CFO
+Vologodskaya oblast;28,69;18125,2;1183860;SZFO
+Arhangelskaya oblast;39,51;23635,8;1121813;SZFO
+Lipeckaya oblast;32,19;19777,4;1156221;CFO
+Ryazanskaya oblast;28,37;17664,4;1126739;CFO
+Kurskaya oblast;26,01;18807,8;1122893;CFO
+Zabajkalskij kraj;40,94;17335,6;1078983;SFO
+Tomskaya oblast;37,29;17875,6;1078891;SFO
+Tambovskaya oblast;29,09;17469,8;1040327;CFO
+Ivanovskaya oblast;32,26;15930,1;1023170;CFO
+Astrahanskaya oblast;33,38;17773,4;1018866;YuFO
+Kaluzhskaya oblast;28,23;20621,2;1014570;CFO
+Kaliningradskaya oblast;34,88;19371,3;986261;SZFO
+Respublika Buryatiya;39,98;17119;984134;SFO
+Respublika Saha (Yakutiya);50,79;28457,3;962835;DVFO
+Smolenskaya oblast;33,46;18250,4;953201;CFO
+Kabardino-Balkarskaya Respublika;31,76;13681,1;864454;SKFO
+Kurganskaya oblast;36,23;16019,5;854109;UFO
+Respublika Komi;38,19;26787,3;850554;SZFO
+Respublika Mordoviya;29,07;13062,7;808541;PFO
+Amurskaya oblast;41,8;21469,3;801752;DVFO
+Murmanskaya oblast;39,78;28604,2;757621;SZFO
+Orlovskaya oblast;28,89;16762,2;754816;CFO
+Respublika Severnaya Osetiya - Alaniya;30,13;16184,7;703262;SKFO
+Respublika Marij El;29,52;12537,9;684684;PFO
+Kostromskaya oblast;34,5;15808,2;648157;CFO
+Pskovskaya oblast;35,48;16412,1;642164;SZFO
+Respublika Kareliya;33,46;20037,4;627083;SZFO
+Novgorodskaya oblast;34,28;19649,2;612522;SZFO
+Respublika Hakasiya;38,59;15991,4;537668;SFO
+Yamalo-Neneckij avtonomnyj okrug;56,8;52342,3;536049;UFO
+Sahalinskaya oblast;50,34;33459,5;487344;DVFO
+Respublika Ingushetiya;31,92;12375,5;480474;SKFO
+Karachaevo-Cherkesskaya Respublika;32,15;13353,9;466432;SKFO
+Respublika Adygeya;28,28;17025,3;453366;YuFO
+Respublika Tyva;46,97;11932,6;318550;SFO
+Kamchatskij kraj;70,75;31481,6;314729;DVFO
+Respublika Kalmykiya;34,42;10183,8;277803;YuFO
+Respublika Altaj;36,9;14277,7;217007;SFO
+Evrejskaya avtonomnaya oblast;51,25;18151,4;164217;DVFO
+Magadanskaya oblast;78,65;36575,6;145570;DVFO
+Neneckij avtonomnyj okrug;81,26;61936,9;43937;SZFO
